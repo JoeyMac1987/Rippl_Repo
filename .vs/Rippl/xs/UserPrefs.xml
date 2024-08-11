@@ -9,7 +9,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Rippl" expanded="True" selected="True" />
+          <Node name="Rippl" expanded="True">
+            <Node name="VoucherOnUs.EF" expanded="True" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
