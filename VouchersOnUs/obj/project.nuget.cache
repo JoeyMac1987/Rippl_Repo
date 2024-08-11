@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4bIgPUKxP3/CU67hg/zxsxifFIlVpAmKZ4iuVjlyFoStCyrXNKMd6MNb2wwjho2X0bJ3mHsPMQ7u6gnwPnu3lw==",
+  "dgSpecHash": "/Y8/rySqCNSrcbdonxe1aFFkiDGS9OGYl7eY0J/vAUI6OzMUsADnj5vuMwxe8pVZTnOo92/3niNGKAfejdqN5g==",
   "success": true,
   "projectFilePath": "/Users/josephmcilmurray/Projects/Rippl/Rippl/VouchersOnUs/VouchersOnUs.API.csproj",
   "expectedPackageFiles": [
@@ -84,27 +84,27 @@
       "message": "System.Net.Http.Formatting.Extension 5.2.3 does not provide an inclusive lower bound for dependency System.Net.Http. An approximate best match of System.Net.Http 2.0.20126.16343 was resolved.",
       "libraryId": "System.Net.Http",
       "targetGraphs": [
-        "net7.0"
+        "net8.0"
       ]
     },
     {
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'System.Net.Http 2.0.20126.16343' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'System.Net.Http 2.0.20126.16343' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
       "libraryId": "System.Net.Http",
       "targetGraphs": [
-        "net7.0"
+        "net8.0"
       ]
     },
     {
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'System.Net.Http.Formatting.Extension 5.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'System.Net.Http.Formatting.Extension 5.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
       "libraryId": "System.Net.Http.Formatting.Extension",
       "targetGraphs": [
-        "net7.0"
+        "net8.0"
       ]
     }
   ]
