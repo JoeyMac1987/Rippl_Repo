@@ -26,19 +26,11 @@ namespace VouchersOnUs.API.Repositories
 
         public string GetProviderApiUrl( string providersName)
         {
-
             string returnURL = "";
-
             var providerRecord = _unitofWork.ProvidersRepository.FindAll().Where(x=> x.ProviderName == providersName).FirstOrDefault();
 
             //add logic to handle unfound
             returnURL = (providerRecord.ProviderAPIURL.Length >0) ? providerRecord.ProviderAPIURL : "error" ;
-
-
-
-
-            //
-
             return returnURL;
 
         }

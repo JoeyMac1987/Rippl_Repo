@@ -3,7 +3,7 @@ using System.Linq.Expressions;
 
 namespace VouchersOnUs.API.Interfaces
 {
-	
+	    //Test Generic Interface
         public interface IAPIRepository<T> where T : Type
         {
             //public IEnumerable<T> GetAll();

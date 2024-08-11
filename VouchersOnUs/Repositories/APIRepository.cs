@@ -1,7 +1,4 @@
-﻿using System;
-using System.Text.Json;
-using Newtonsoft.Json;
-using VouchersOnUs.API.DTO;
+﻿using Newtonsoft.Json;
 using VouchersOnUs.API.Interfaces;
 
 namespace VouchersOnUs.API.Repositories

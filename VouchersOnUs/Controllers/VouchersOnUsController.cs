@@ -1,16 +1,10 @@
-﻿using System;
-using System.Net;
-using System.Net.Http.Headers;
-using System.Security.Cryptography.Xml;
-using Azure.Core;
+﻿using System.Net;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using VoucherOnUs.EF.EntityFramework.DAL;
 using VoucherOnUs.EF.EntityFramework.Interfaces;
 using VouchersOnUs.API.DTO;
 using VouchersOnUs.API.Repositories;
-using System.Net.Http;
 
 
 
@@ -41,6 +35,7 @@ namespace VouchersOnUs.API.Controllers
             _logger = logger;
         }
 
+        //Default Tester App runs
         public string TESTAPI()
         {
             return "API IS RUNNING";
@@ -143,13 +138,9 @@ namespace VouchersOnUs.API.Controllers
 
             return recordResult;
         }
-        
 
 
-
-
-
-            private List<VouchersDTO> GetAllVouchersAPICall(string url)
+        private List<VouchersDTO> GetAllVouchersAPICall(string url)
         {
             List<VouchersDTO> returnValues = new List<VouchersDTO>();
 
@@ -188,6 +179,7 @@ namespace VouchersOnUs.API.Controllers
         private bool ProcessOrderAPICall(string url)
         {
             bool outcome = true;
+
             using (var client = new HttpClient())
             {
                 client.BaseAddress = new Uri(providerURL);

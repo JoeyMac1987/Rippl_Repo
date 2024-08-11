@@ -22,6 +22,7 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    /*Commented out for testing some EF calls*/
     //app.UseSwagger();
     //app.UseSwaggerUI();
 }

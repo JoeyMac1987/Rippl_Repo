@@ -1,20 +1,41 @@
 ﻿<Properties StartupConfiguration="{0B4062E4-85E9-49FC-BDAD-E7B2612C537D}|https">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VouchersOnUs/Program.cs">
+    <Files>
+      <File FileName="VouchersOnUs/Controllers/VouchersOnUsController.cs" Line="2" Column="1" />
+      <File FileName="VouchersOnUs/DTO/OrdersDTO.cs" Line="1" Column="1" />
+      <File FileName="VouchersOnUs/DTO/UsersDTO.cs" Line="1" Column="1" />
+      <File FileName="VouchersOnUs/DTO/VoucherApiDTO.cs" Line="1" Column="1" />
+      <File FileName="VouchersOnUs/DTO/VouchersDTO.cs" Line="1" Column="1" />
+      <File FileName="VouchersOnUs/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="VouchersOnUs/Repositories/APIRepository.cs" Line="1" Column="1" />
+      <File FileName="VouchersOnUs/Repositories/OrdersRepository.cs" Line="1" Column="1" />
+      <File FileName="VouchersOnUs/Repositories/ProvidersRepository.cs" Line="28" Column="10" />
+      <File FileName="VouchersOnUs/Repositories/UsersRepository.cs" Line="1" Column="1" />
+      <File FileName="VouchersOnUs/Repositories/VouchersRepository.cs" Line="1" Column="1" />
+      <File FileName="VouchersOnUs/Program.cs" Line="28" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Rippl" expanded="True">
-            <Node name="VoucherOnUs.EF" expanded="True" selected="True" />
+          <Node name="Rippl">
+            <Node name="VoucherOnUs.EF" expanded="True" />
+            <Node name="VouchersOnUs.API">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.VouchersOnUs.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
