@@ -1,0 +1,15 @@
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/bin/Debug/net7.0/VouchersOnUs.BL.deps.json
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/bin/Debug/net7.0/VouchersOnUs.BL.dll
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/bin/Debug/net7.0/VouchersOnUs.BL.pdb
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/bin/Debug/net7.0/VouchersOnUs.DAL.dll
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/bin/Debug/net7.0/VouchersOnUs.DAL.pdb
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/obj/Debug/net7.0/VouchersOnUs.BL.csproj.AssemblyReference.cache
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/obj/Debug/net7.0/VouchersOnUs.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/obj/Debug/net7.0/VouchersOnUs.BL.AssemblyInfoInputs.cache
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/obj/Debug/net7.0/VouchersOnUs.BL.AssemblyInfo.cs
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/obj/Debug/net7.0/VouchersOnUs.BL.csproj.CoreCompileInputs.cache
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/obj/Debug/net7.0/VouchersOnUs.BL.csproj.CopyComplete
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/obj/Debug/net7.0/VouchersOnUs.BL.dll
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/obj/Debug/net7.0/refint/VouchersOnUs.BL.dll
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/obj/Debug/net7.0/VouchersOnUs.BL.pdb
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.BL/obj/Debug/net7.0/ref/VouchersOnUs.BL.dll

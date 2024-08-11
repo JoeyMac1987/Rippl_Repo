@@ -1,0 +1,12 @@
+/Users/josephmcilmurray/Projects/Rippl/VoucherOnUs.EF/bin/Debug/net7.0/VoucherOnUs.EF.deps.json
+/Users/josephmcilmurray/Projects/Rippl/VoucherOnUs.EF/bin/Debug/net7.0/VoucherOnUs.EF.dll
+/Users/josephmcilmurray/Projects/Rippl/VoucherOnUs.EF/bin/Debug/net7.0/VoucherOnUs.EF.pdb
+/Users/josephmcilmurray/Projects/Rippl/VoucherOnUs.EF/obj/Debug/net7.0/VoucherOnUs.EF.csproj.AssemblyReference.cache
+/Users/josephmcilmurray/Projects/Rippl/VoucherOnUs.EF/obj/Debug/net7.0/VoucherOnUs.EF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephmcilmurray/Projects/Rippl/VoucherOnUs.EF/obj/Debug/net7.0/VoucherOnUs.EF.AssemblyInfoInputs.cache
+/Users/josephmcilmurray/Projects/Rippl/VoucherOnUs.EF/obj/Debug/net7.0/VoucherOnUs.EF.AssemblyInfo.cs
+/Users/josephmcilmurray/Projects/Rippl/VoucherOnUs.EF/obj/Debug/net7.0/VoucherOnUs.EF.csproj.CoreCompileInputs.cache
+/Users/josephmcilmurray/Projects/Rippl/VoucherOnUs.EF/obj/Debug/net7.0/VoucherOnUs.EF.dll
+/Users/josephmcilmurray/Projects/Rippl/VoucherOnUs.EF/obj/Debug/net7.0/refint/VoucherOnUs.EF.dll
+/Users/josephmcilmurray/Projects/Rippl/VoucherOnUs.EF/obj/Debug/net7.0/VoucherOnUs.EF.pdb
+/Users/josephmcilmurray/Projects/Rippl/VoucherOnUs.EF/obj/Debug/net7.0/ref/VoucherOnUs.EF.dll

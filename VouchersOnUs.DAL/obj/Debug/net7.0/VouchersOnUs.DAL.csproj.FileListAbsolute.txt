@@ -1,0 +1,12 @@
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.DAL/bin/Debug/net7.0/VouchersOnUs.DAL.deps.json
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.DAL/bin/Debug/net7.0/VouchersOnUs.DAL.dll
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.DAL/bin/Debug/net7.0/VouchersOnUs.DAL.pdb
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.DAL/obj/Debug/net7.0/VouchersOnUs.DAL.csproj.AssemblyReference.cache
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.DAL/obj/Debug/net7.0/VouchersOnUs.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.DAL/obj/Debug/net7.0/VouchersOnUs.DAL.AssemblyInfoInputs.cache
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.DAL/obj/Debug/net7.0/VouchersOnUs.DAL.AssemblyInfo.cs
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.DAL/obj/Debug/net7.0/VouchersOnUs.DAL.csproj.CoreCompileInputs.cache
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.DAL/obj/Debug/net7.0/VouchersOnUs.DAL.dll
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.DAL/obj/Debug/net7.0/refint/VouchersOnUs.DAL.dll
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.DAL/obj/Debug/net7.0/VouchersOnUs.DAL.pdb
+/Users/josephmcilmurray/Projects/Rippl/VouchersOnUs.DAL/obj/Debug/net7.0/ref/VouchersOnUs.DAL.dll

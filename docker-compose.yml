@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  vouchersonus.api:
+    image: ${DOCKER_REGISTRY-}vouchersonus
+    build:
+      context: .
+      dockerfile: VouchersOnUs/Dockerfile
